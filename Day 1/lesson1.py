@@ -2,7 +2,7 @@ from turtle import *
 
 #house
 
-speed(30)
+
 
 #step 1: square
 
